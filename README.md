@@ -1,9 +1,12 @@
+- Website: https://www.zx.net.nz
+- On GitHub: https://github.com/davidrg
+
 # Kermit-95
 Kermit 95 is a terminal emulator for Windows and OS/2 with a long history. For the last several years I've been its maintainer.
 
 For further information, see:
-  - [The Github Website](https://davidrg.github.io/ckwin/)
-  - [The beta home page on kermitproject.org](https://kermitproject.org/ckw10beta.html)
+  - [The Kermit 95 Website on GitHub](https://davidrg.github.io/ckwin/)
+  - [The Kermit 95 beta home page on kermitproject.org](https://kermitproject.org/ckw10beta.html)
   - [The repository on github](https://github.com/davidrg/ckwin)
   - [Development log](https://www.ext.zx.net.nz/software/notes/kermit95/)
 
